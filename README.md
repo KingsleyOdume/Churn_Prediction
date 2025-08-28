@@ -39,8 +39,8 @@ This helps businesses identify at-risk customers** and take proactive retention 
 
 1. Clone the repo:  
    
-   git clone https://github.com/KingsleyOdume/telecom-churn-prediction.git
-   cd telecom-churn-prediction
+   git@github.com:KingsleyOdume/Churn_Prediction.git
+   cd Churn_Prediction
 
 
 Create virtual environment & install dependencies:
