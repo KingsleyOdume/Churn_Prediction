@@ -52,7 +52,7 @@ streamlit run app.py
 Open browser at http://localhost:8501
 
 🌐 Live Demo
-👉 Try it here on Streamlit
+👉 Try it here on [Streamlit](https://churnprediction-e4hwbkmbprqyast6rdxqnn.streamlit.app)
 
 
 📊 Example Prediction
